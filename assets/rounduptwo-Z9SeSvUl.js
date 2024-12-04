@@ -1,0 +1,1 @@
+import{u as o,c as r,a as s,j as a,o as n}from"./index-CgVndxHg.js";const u={key:0,class:"article"},p={__name:"rounduptwo",setup(c){let t=+prompt("2-darsga otish uchun parolni kiriting");return(i,e)=>o(t)==12?(n(),r("div",u,e[0]||(e[0]=[s("h1",null,"A/AN",-1)]))):a("",!0)}};export{p as default};

@@ -1,0 +1,1 @@
+import{_ as n,o as s,c as o,a as c,k as a}from"./index-CgVndxHg.js";const r="/englishbook/assets/destination-i2elEM2A.webp",_={},i={class:"container"};function l(t,e){return s(),o("div",i,e[0]||(e[0]=[c("img",{src:r,alt:""},null,-1)]))}const p=n(_,[["render",l]]),d={__name:"five",setup(t){return(e,f)=>(s(),a(p))}};export{d as default};
